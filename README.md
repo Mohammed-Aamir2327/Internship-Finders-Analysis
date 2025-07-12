@@ -103,5 +103,37 @@ Queries were written to:
 
 ## 📁 Files & Structure
 
+/Internship_Finder_Data_Analytics_Project
+├── Internship_Insights.pbix # Power BI dashboard
+├── internship_data_large.csv # Simulated dataset
+├── SQL_queries_postgres.sql # All PostgreSQL queries used
+├── README.md # Project documentation
+
+
+---
+
+## 📢 How to Use
+
+1. Clone the repository
+2. Open Power BI and load `internship_data_large.csv`
+3. Use `SQL_queries_postgres.sql` in any PostgreSQL client
+4. Explore insights or customize dashboard visuals
+
+---
+
+## 💡 Final Note
+
+This project is ideal for:
+- Students preparing portfolios
+- Aspiring data analysts
+- Data visualization practice
+- Resume & LinkedIn projects
+
+**📣 Built with passion to solve a real problem through data.**
+
+---
+
+
+
 
 
