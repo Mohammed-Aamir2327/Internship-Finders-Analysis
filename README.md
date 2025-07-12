@@ -7,10 +7,10 @@ This project aims to analyze internship trends using a simulated dataset that mi
 ## 📌 Objective
 
 To develop a data analytics solution that:
-- Identifies in-demand internship roles and skills
-- Highlights trends in stipend, mode, duration, and location
-- Helps students plan applications more strategically
-- Enables decision-making using dashboards and KPIs
+- Identifies in-demand internship roles and skills,
+- Highlights trends in stipend, mode, duration, and location,
+- Helps students plan applications more strategically,
+- Enables decision-making using dashboards and KPIs.
 
 ---
 
@@ -22,7 +22,7 @@ We **did not use real data from LinkedIn or Internshala** due to:
 - ⚖️ To ensure ethical data usage and avoid violations
 
 Instead, we generated a **realistic, large sample dataset** with fields commonly found in internship listings, such as: 
-Fields: title, company, location, mode, duration, stipend, skills, deadline
+Fields: title, company, location, mode, duration, stipend, skills, deadline.
 
 
 ---
@@ -41,11 +41,11 @@ Fields: title, company, location, mode, duration, stipend, skills, deadline
 
 The simulated dataset contains:
 - Internship titles like `Data Analyst Intern`, `AI/ML Intern`, `Graphic Design Intern`, etc.
-- Modes: Online, Offline, Hybrid
-- Stipend and Duration (1–6 months)
-- Comma-separated skill tags (e.g., Python, Excel)
-- Random future application deadlines
-- 2000+ records for realistic volume
+- Modes: Online, Offline, Hybrid.
+- Stipend and Duration (1–6 months).
+- Comma-separated skill tags (e.g., Python, Excel).
+- Random future application deadlines.
+- 2000+ records for realistic volume.
 
 ---
 
@@ -84,11 +84,11 @@ The simulated dataset contains:
 ## 🧩 SQL Queries (PostgreSQL)
 
 Queries were written to:
-- Count internships per domain
-- Calculate average stipend
-- Extract and rank in-demand skills
-- Filter upcoming deadlines
-- Analyze by mode and location
+- Count internships per domain,
+- Calculate average stipend,
+- Extract and rank in-demand skills,
+- Filter upcoming deadlines,
+- Analyze by mode and location.
 
 > All insights were built on real SQL queries — not hardcoded in Power BI.
 
@@ -113,10 +113,10 @@ Queries were written to:
 ## 💡 Final Note
 
 This project is ideal for:
-- Students preparing portfolios
-- Aspiring data analysts
-- Data visualization practice
-- Resume & LinkedIn projects
+- Students preparing portfolios,
+- Aspiring data analysts,
+- Data visualization practice,
+- Resume & LinkedIn projects.
 
 **📣 Built with passion to solve a real problem through data.**
 
