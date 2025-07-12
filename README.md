@@ -21,7 +21,8 @@ We **did not use real data from LinkedIn or Internshala** due to:
 - 📵 **No legal access to scrape or use commercial datasets**
 - ⚖️ To ensure ethical data usage and avoid violations
 
-Instead, we generated a **realistic, large sample dataset** with fields commonly found in internship listings, such as:
+Instead, we generated a **realistic, large sample dataset** with fields commonly found in internship listings, such as: 
+Fields: title, company, location, mode, duration, stipend, skills, deadline
 
 
 ---
@@ -105,8 +106,7 @@ Queries were written to:
 
 1. Clone the repository
 2. Open Power BI and load `internship_data_large.csv`
-3. Use `SQL_queries_postgres.sql` in any PostgreSQL client
-4. Explore insights or customize dashboard visuals
+3. Explore insights or customize dashboard visuals
 
 ---
 
