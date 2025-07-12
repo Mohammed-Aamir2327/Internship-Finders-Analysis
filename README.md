@@ -128,6 +128,12 @@ This project is ideal for:
 
 ![Dashboard Preview](https://github.com/Mohammed-Aamir2327/Internship-Finders-Analysis/blob/main/Internship%20Finders%20Dashboard%20-%201.png)
 
+### Internship Finders Dashboard - 2 Snapshpot
+
+![Dashboard Preview](https://github.com/Mohammed-Aamir2327/Internship-Finders-Analysis/blob/main/Internship%20Finders%20Dashboard%20-%202.png)
+
+---
+
 
 
 
