@@ -101,17 +101,6 @@ Queries were written to:
 
 ---
 
-## 📁 Files & Structure
-
-/Internship_Finder_Data_Analytics_Project
-├── Internship_Insights.pbix # Power BI dashboard
-├── internship_data_large.csv # Simulated dataset
-├── SQL_queries_postgres.sql # All PostgreSQL queries used
-├── README.md # Project documentation
-
-
----
-
 ## 📢 How to Use
 
 1. Clone the repository
