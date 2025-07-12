@@ -8,7 +8,7 @@ This project aims to analyze internship trends using a simulated dataset that mi
 
 To develop a data analytics solution that:
 - Identifies in-demand internship roles and skills,
-- Highlights trends in stipend, mode, duration, and location,
+- Highlights trends in stipend, mode, duration, and location.
 - Helps students plan applications more strategically,
 - Enables decision-making using dashboards and KPIs.
 
@@ -17,9 +17,9 @@ To develop a data analytics solution that:
 ## 🧠 Why Simulated Data?
 
 We **did not use real data from LinkedIn or Internshala** due to:
-- 🔐 **LinkedIn API restrictions and data privacy policies**
-- 📵 **No legal access to scrape or use commercial datasets**
-- ⚖️ To ensure ethical data usage and avoid violations
+- 🔐 **LinkedIn API restrictions and data privacy policies**,
+- 📵 **No legal access to scrape or use commercial datasets**,
+- ⚖️ To ensure ethical data usage and avoid violations.
 
 Instead, we generated a **realistic, large sample dataset** with fields commonly found in internship listings, such as: 
 Fields: title, company, location, mode, duration, stipend, skills, deadline.
